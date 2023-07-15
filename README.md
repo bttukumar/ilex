@@ -76,7 +76,8 @@
       height: 100%;
       z-index: -1;
       animation: animateBackground 20s linear infinite;
-      background-image:  url("../../images/2023_02_17_09_11_IMG_0005.JPG");
+      background-image:<img src="image/2023_02_17_09_11_IMG_0005.JPG" alt="iLex Public School front view">
+
       background-size: cover;
     }
     
