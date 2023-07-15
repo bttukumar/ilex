@@ -76,7 +76,7 @@
       height: 100%;
       z-index: -1;
       animation: animateBackground 20s linear infinite;
-      background-image: url("C:/Users/admin/Pictures/2023_02_17_09_11_IMG_0005.JPG");
+      background-image:  url("../../images/2023_02_17_09_11_IMG_0005.JPG");
       background-size: cover;
     }
     
